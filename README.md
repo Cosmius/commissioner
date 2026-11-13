@@ -177,31 +177,38 @@ If you are an AI agent asked to write a skill from this framework:
 
 ## FAQ
 
-**Will it make my agent work cheaper?**
+### Will it make my agent work cheaper?
+
 No. It usually costs more, because it runs more agents. Use it to save your
 attention, not money.
 
-**Can I run the Commissioner on a cheap model to cut cost?**
+### Can I run the Commissioner on a cheap model to cut cost?
+
 Not recommended. The Commissioner makes decisions in your name, so give it
 the best model you can afford.
 
-**Does it make the agents' work correct?**
+### Does it make the agents' work correct?
+
 No. It makes mistakes less likely to go unchecked, and records every
 decision so you can review them. You still read the worklog.
 
-**Does it replace me?**
+### Does it replace me?
+
 No. It decides only what the mandate covers, and brings everything else
 back to you. Only you can widen the mandate.
 
-**Is the mandate a security boundary?**
+### Is the mandate a security boundary?
+
 No. It is an instruction an agent can misread or ignore. Use an isolated
 environment and your tool's permissions to limit what the agents can
 actually do.
 
-**Is it worth it for a small, quick task?**
+### Is it worth it for a small, quick task?
+
 Usually not. For a task you can decide in a few minutes, ask an agent
 directly. The framework pays off on longer work with many decisions.
 
-**Is this a tool or a ready-made skill?**
+### Is this a tool or a ready-made skill?
+
 No. It is a set of rules. Your AI agent writes the skill for you, as
 described in How to Use.
