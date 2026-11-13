@@ -61,6 +61,14 @@ something is covered, it is not covered.
 Mandates differ between people, projects and tasks. These rules only require
 that a mandate exists, is written down and binds the Commissioner.
 
+### Writing a Mandate
+
+Start with minimal authority. When a limit turns out to be unnecessary, for
+example the Commissioner keeps bringing back a kind of decision you always
+approve, widen the mandate a little to cover it. Widening step by step from
+a narrow start is safer than narrowing a broad mandate after something has
+gone wrong.
+
 ## Rules
 
 1. **The Commissioner acts as the human's delegate.** Its decisions count as
@@ -191,6 +199,16 @@ the best model you can afford.
 
 No. It makes mistakes less likely to go unchecked, and records every
 decision so you can review them. You still read the worklog.
+
+### Why can one Commissioner overrule everything, instead of a committee?
+
+A committee of agents may never reach agreement. It can keep debating and
+spend a lot of money without delivering anything. A single Commissioner
+always rules, so the work keeps moving and something is delivered. A wrong
+or poor delivery, if it can be reversed, is still better than none, because
+you can ask the agents to improve it. To guard against irreversible
+actions, deny them in your mandate and isolate the environment, instead of
+counting on a committee.
 
 ### Does it replace me?
 
